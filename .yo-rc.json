@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Cameron Wilby",
+      "authorEmail": "cameron@wilby.com",
+      "authorUrl": "https://www.cameronwilby.com"
+    }
+  }
+}
