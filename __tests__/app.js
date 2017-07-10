@@ -3,7 +3,7 @@ var path = require('path');
 var assert = require('yeoman-assert');
 var helpers = require('yeoman-test');
 
-describe('generator-oca-express:app', () => {
+describe('generator-oca-ng-express:app', () => {
   beforeAll(() =>
     helpers
       .run(path.join(__dirname, '../generators/app'))

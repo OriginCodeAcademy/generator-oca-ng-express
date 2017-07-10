@@ -1,5 +1,5 @@
 {
-  "name": "generator-oca-express",
+  "name": "generator-oca-ng-express",
   "version": "0.0.0",
   "description": "Generates a new full stack JavaScript project using Express and Sequelize",
   "homepage": "",
@@ -46,6 +46,6 @@
       "node": true
     }
   },
-  "repository": "cameronwilby/generator-oca-express",
+  "repository": "cameronwilby/generator-oca-ng-express",
   "license": "unlicense"
 }

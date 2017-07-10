@@ -7,7 +7,7 @@ This is a [Yeoman](https://yeoman.io) generator that will generate the codebase 
 1. Install the generator
 
 ```sh
-$ npm install -g yo generator-oca-express
+$ npm install -g yo generator-oca-ng-express
 ```
 
 2. Run the generator (in a folder where you keep code)
