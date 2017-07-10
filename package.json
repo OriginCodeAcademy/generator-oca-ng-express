@@ -5,8 +5,8 @@
   "homepage": "",
   "author": {
     "name": "Cameron Wilby",
-    "email": "cameron@wilby.com",
-    "url": "https://www.cameronwilby.com"
+    "email": "cameron@origincodeacademy.com",
+    "url": "https://www.origincodeacademy.com"
   },
   "files": [
     "generators"
@@ -46,6 +46,5 @@
       "node": true
     }
   },
-  "repository": "cameronwilby/generator-oca-ng-express",
-  "license": "unlicense"
+  "repository": "origincodeacademy/generator-oca-ng-express"
 }
