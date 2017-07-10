@@ -1,6 +1,6 @@
-# OCA Express Generator
+# OCA AngularJS/Express Generator
 
-This is a [Yeoman](https://yeoman.io) generator that will generate the codebase for a full stack JavaScript project using NodeJS, Express, Angular, and Sequelize/MySQL.
+This is a [Yeoman](https://yeoman.io) generator that will generate the codebase for a full stack JavaScript project using NodeJS, Express, AngularJS, and Sequelize/MySQL.
 
 ## Getting Started
 
