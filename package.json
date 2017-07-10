@@ -1,6 +1,6 @@
 {
   "name": "generator-oca-ng-express",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates a new full stack JavaScript project using Express and Sequelize",
   "homepage": "",
   "author": {
